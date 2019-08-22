@@ -1,0 +1,4 @@
+#Thu Aug 22 12:42:35 EEST 2019
+base.0=/Users/macbookpro/testflutterapp/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
